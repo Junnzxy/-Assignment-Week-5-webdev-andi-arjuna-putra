@@ -1,6 +1,7 @@
-<!DOCTYPE html>
-<html lang="id">
-<head>
+<!doctype html>
+<html>
+  <head>
+    @vite('resources/css/app.css')
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -32,7 +33,7 @@
                         <td class="label">Jurusan</td>
                         <td>: {{ $jurusan }}</td>
                     </tr>
-                    <tr>
+                    <tr> bn
                         <td class="label">Institusi</td>
                         <td>: {{ $institusi }}</td>
                     </tr>
@@ -50,7 +51,7 @@
     </div>
 
     <footer>
-        <p>&copy; 2024 Praktikum Pemrograman Web - All Rights Reserved</p>
+        <p>&copy; 2026 Praktikum  mrograman Web - All Rights Reserved</p>
     </footer>
 
     <script src="/js/about.js"></script>

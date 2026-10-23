@@ -26,11 +26,11 @@
             </li>
             <li>
                 <strong>WhatsApp</strong>
-                <span>: <a href="https://wa.me/6281234567890" target="_blank">{{ $whatsapp ?? '+62 812-3456-7890' }}</a></span>
+                <span>: <a href="https://wa.me/6289580511294" target="_blank">{{ $whatsapp ?? '+62 895-8051-1294' }}</a></span>
             </li>
             <li>
                 <strong>Instagram</strong>
-                <span>: <a href="https://instagram.com/andiarjuna_" target="_blank">{{ $instagram ?? '@andiarjuna_' }}</a></span>
+                <span>: <a href="https://instagram.com/rjnaptra_" target="_blank">{{ $instagram ?? '@rjnaptra_' }}</a></span>
             </li>
             <li>
                 <strong>GitHub</strong>
